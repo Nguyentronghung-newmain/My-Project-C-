@@ -6,14 +6,11 @@ int main()
 	int arr[8];
 	int n = 8;
 	
-	
-	
 	for (int i = 0; i < 8; i ++)
 	{
 		cout << "Nhap mang[" << i <<"]: ";
 		cin >> arr[i];
 	}
-	
 	
 	for (int i = 0; i < n; i ++)
 	{
